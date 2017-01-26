@@ -3,6 +3,8 @@
 
 The data is an experimentally recorded set of spikes recorded from the famous H1 motion-sensitive neuron of the fly (Calliphora vicina) from the lab of Dr Robert de Ruyter van Steveninck.
 
+This is a complete rewrite of non-tensorflow code in the Coursera course [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience/home/welcome) by University of Washington.  I am thoroughly enjoying this course!
+
 Here we use TensorFlow to find out how the neuron is reacting to the data, to see what causes the neuron to trigger.
 
 
